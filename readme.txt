@@ -3,7 +3,9 @@ clusters with varying densities, proposed by Ye Zhu, Kai Ming Ting, and Mark J. 
 "Density-ratio based clustering for discovering clusters with varying densities." 
 Pattern Recognition (2016). http://www.sciencedirect.com/science/article/pii/S0031320316301571
 
-Written by Ye Zhu, Monash University, July 2016, version 1.0
+Written by Ye Zhu, Monash University, July 2016, version 1.0, 
+
+Programming Language: MATLAB R2016a
 
 This software is under GNU General Public License version 3.0 (GPLv3)
 
